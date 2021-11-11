@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate on Open-Source Projects
 - 📫 How to reach me: reuelga0@gmail.com (email)
-- 🚀 Quote: "Coding is underrated!"
+- ✍ Quote(s): "Coding is underrated!" "To change the past, we must be willing to improve on the present."
