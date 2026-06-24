@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Reuel O
+# Hi there 👋, I'm Reuel O!
 
 ## 🚀 About Me
 - 👀 Passionate about Web & Software Development
@@ -18,10 +18,10 @@
 - Full-Stack Web Development (React, Next.js, Fastify)
 - Mobile App Development (Flutter / React Native)
 - System Design & Backend Architecture
-- Database Design (SQL)
+- Database Design (SQL, NoSQL)
 - Educational & Productivity Software
 
-## 📌 Current Direction
+## 🛣️ Current Direction
 Building projects that evolve from:
 simple websites → business systems → full-scale platforms
 
